@@ -8,12 +8,21 @@
 
 ---
 
-🔥 About Me 🔥
+### 🔥 **About Me** 🔥
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Full Stack Developer | DevOps Engineer
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer+%7C+DevOps+Engineer;🎓+CDA+Student+%7C+France+🇫🇷;💻+Symfony+•+React+•+Docker+•+MySQL;☕+Turning+coffee+into+code...;🌱+Currently+building+AQUIPLANTS+seed+tracker" alt="Animated typing" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
 </p>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MTPBD3&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  🎓 CDA Student | 🇫🇷 France | 💻 Symfony • React • Docker<br/>
+  🌱 Building AQUIPLANTS seed tracker | ☕ Coffee → Code
 </p>
 
 ---
