@@ -95,6 +95,15 @@ A comprehensive web application for managing seed arrivals and storage at AQUIPL
        └─────────────────────┴──────────────────────┘
                         Docker Compose
 ```
+
+**📈 Progress:**
+- [x] Jalon 1: Functional Specifications ✅
+- [x] Jalon 2: Methodology & UI/UX Design ✅
+- [ ] Jalon 3: Database Modeling 🔄
+- [ ] Jalon 4: UML Architecture ⏳
+- [ ] Jalon 5: Development & Testing ⏳
+- [ ] Jalon 6: Deployment ⏳
+
 </details>
 
 ---
