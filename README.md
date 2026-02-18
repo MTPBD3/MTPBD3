@@ -8,26 +8,13 @@
 
 ---
 
-### 🔥 **About Me** 🔥
-
-```typescript
-const developer = {
-    name: "MTPBD3",
-    role: "Full Stack Developer | DevOps Engineer",
-    location: "France 🇫🇷",
-    education: "CDA - Concepteur Développeur d'Applications",
-    currentProject: "GRAINE FOURNIE AQUIPLANTS",
-    techStack: {
-        frontend: ["React 18", "Vite", "Material-UI"],
-        backend: ["Symfony 7", "PHP 8.2", "API Platform"],
-        database: ["MySQL 8", "Doctrine ORM"],
-        devops: ["Docker", "GitHub Actions", "CI/CD"],
-        tools: ["Git", "Figma", "VSCode"]
-    },
-    challenge: "Building a complete seed management system",
-    funFact: "I turn coffee into code ☕ → 💻"
-};
-```
+🔥 About Me 🔥
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Full+Stack+Developer+%7C+DevOps+Engineer;🎓+CDA+Student+%7C+France+🇫🇷;💻+Symfony+•+React+•+Docker+•+MySQL;☕+Turning+coffee+into+code...;🌱+Currently+building+AQUIPLANTS+seed+tracker" alt="Animated typing" />
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MTPBD3&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</p>
 
 ---
 
