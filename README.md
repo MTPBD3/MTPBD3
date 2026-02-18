@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to the Matrix 🌟
+# 🌟 Welcome to AI 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%7C+DevOps+Engineer;Symfony+%7C+React+%7C+Docker+%7C+MySQL;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 </p>
 
 <p align="center">
