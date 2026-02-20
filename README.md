@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=💥M͎T͎P͎B͎D͎3͎💥&fontSize=100&fontAlignY=40&animation=fadeIn&fontColor=gradient&desc=⚡D̸E̸S̸T̸R̸O̸Y̸I̸N̸G̸⚡T̸H̸E̸⚡M̸A̸T̸R̸I̸X̸⚡&descAlignY=65&descSize=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=💥M͎T͎P͎B͎D͎3͎💥&fontSize=100&fontAlignY=40&animation=fadeIn&fontColor=gradient&desc=⚡MTPBD3⚡&descAlignY=65&descSize=40" width="100%"/>
 
 ```
 ╔═══╗╔╗─╔╗╔════╗╔═══╗╔══╗ ╔═══╗
